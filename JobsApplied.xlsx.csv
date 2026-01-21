@@ -1,4 +1,8 @@
-Date,Company Name,Role,form,status
-1/11/2026,Delloite,SDE-Analyst,applied,pending
-1/11/2026,ZOHO,SDE,applied,pending
-1/16/2026,AMAZON SDE,applied,pending
+Date,Company Name,Role,form,status,type,link,outcome
+1/11/2026,Delloite,SDE-Analyst,applied,pending,clg_recommended,https://usrecruiting.deloitte.com/deloitte-national-level-assessement#subpage/engineering/content/357994815,notyet
+1/11/2026,ZOHO,SDE,applied,pending,clg_recommended,https://unstop.gotrackier.io/click?campaign_id=1379&pub_id=55,notyet
+1/16/2026,AMAZON SDE,applied,applied,pending,clg_recommended,https://www.amazon.jobs/en/jobs/3153514/software-dev-engineer-i-amazon-university-talent-acquisition,rejected
+1/17/2026,IBM,SDE,applied,Rejected,clg_recommended,https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86115,notyet
+1/21/2026,skillanthem,sde,applied,pending,linkedin,https://www.linkedin.com/jobs/view/4354117217/,notyet
+1/21/2026,niktor inc,sde,applied,pending,linkedin,https://www.linkedin.com/jobs/view/4354117217/,notyet
+1/21/2026,goodspace.ai,backendDev,applied,pending,linkedin,https://goodspace.ai/jobs/Software--Engineer?id=30151,notyet
