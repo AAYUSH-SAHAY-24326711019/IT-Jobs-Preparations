@@ -3,10 +3,10 @@ sno,date,subject,total units,completed,pyq_solved,completion,type,hrs_seen
 2,23/01/2026,ML,5,0,0,25,video,2
 3,24/01/2026,HRM-WT-SWE-VP,0,0,0,62,clg,4
 4,25/01/2026,webtech,5,1,0,55,video,1
-5,,,,,,,,
-6,,,,,,,,
-7,,,,,,,,
-8,,,,,,,,
+5,27/01/2026,webtech,5,5,0,100,syllabus,10
+6,27/01/2026,HRM,5,5,0,100,syllabus,10
+7,27/01/2026,E commerce,5,5,0,100,syllabus,10
+8,27/01/2026,Sw Eng,5,5,0,100,syllabus,10
 9,,,,,,,,
 10,,,,,,,,
 11,,,,,,,,
