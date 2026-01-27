@@ -1,13 +1,19 @@
-Date,Company Name,Role,form,status,type,link,outcome
-1/11/2026,Delloite,SDE-Analyst,applied,pending,clg_recommended,https://usrecruiting.deloitte.com/deloitte-national-level-assessement#subpage/engineering/content/357994815,notyet
-1/11/2026,ZOHO,SDE,applied,pending,clg_recommended,https://unstop.gotrackier.io/click?campaign_id=1379&pub_id=55,notyet
-1/16/2026,AMAZON SDE,applied,applied,pending,clg_recommended,https://www.amazon.jobs/en/jobs/3153514/software-dev-engineer-i-amazon-university-talent-acquisition,rejected
-1/17/2026,IBM,SDE,applied,Rejected,clg_recommended,https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86115,notyet
-1/21/2026,skillanthem,sde,applied,pending,linkedin,https://www.linkedin.com/jobs/view/4354117217/,notyet
-1/21/2026,niktor inc,sde,applied,pending,linkedin,https://www.linkedin.com/jobs/view/4354117217/,notyet
-1/21/2026,goodspace.ai,backendDev,applied,pending,linkedin,https://goodspace.ai/jobs/Software--Engineer?id=30151,notyet
-1/21/2026,qualcomm,swe,applied,pending,clg_recommended,https://careers.qualcomm.com/careers/job/446706882270?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2,notyet
-1/22/2026,wiingy,backendDev,applied,pending,linkedin,https://www.linkedin.com/jobs/view/4362622114/?eBP=BUDGET_EXHAUSTED_JOB&refId=Z4b4jLX%2FO9GuhGelkKVjNw%3D%3D&trackingId=KfmmBYT8YMP4qNgX3RRuzA%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BegxsnbYsQwOiMqTZdgYD8Q%3D%3D&lici=KfmmBYT8YMP4qNgX3RRuzA%3D%3D,notyet
-1/24/2026,Accenture,HR,applied,pending,clg_recommended,https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01623733_en&title=HR+Service+Delivery+New+Associate,notyet
-1/25/2026,purplemerit,swe,applied,pending,linkedin,https://www.linkedin.com/jobs/view/4355822443/?refId=gMNmBoQUzjt1VaQn%2BRsbeA%3D%3D&trackingId=53mSHFxTsJNapRN0I98RXQ%3D%3D,notyet
-1/26/2026,purplemerit,backendDev,applied,pending,linkedin,https://forms.gle/CfZoSr5E8phxkjX16,notyet
+Date,Company Name,Role,form,type,link
+1/11/2026,Delloite,SDE-Analyst,applied,clg_recommended,https://usrecruiting.deloitte.com/deloitte-national-level-assessement#subpage/engineering/content/357994815
+1/11/2026,ZOHO,SDE,applied,clg_recommended,https://unstop.gotrackier.io/click?campaign_id=1379&pub_id=55
+1/16/2026,AMAZON SDE,applied,applied,clg_recommended,https://www.amazon.jobs/en/jobs/3153514/software-dev-engineer-i-amazon-university-talent-acquisition
+1/17/2026,IBM,SDE,applied,clg_recommended,https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86115
+1/21/2026,skillanthem,sde,applied,linkedin,https://www.linkedin.com/jobs/view/4354117217/
+1/21/2026,niktor inc,sde,applied,linkedin,https://www.linkedin.com/jobs/view/4354117217/
+1/21/2026,goodspace.ai,backendDev,applied,linkedin,https://goodspace.ai/jobs/Software--Engineer?id=30151
+1/21/2026,qualcomm,swe,applied,clg_recommended,https://careers.qualcomm.com/careers/job/446706882270?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2
+1/22/2026,wiingy,backendDev,applied,linkedin,https://www.linkedin.com/jobs/view/4362622114/?eBP=BUDGET_EXHAUSTED_JOB&refId=Z4b4jLX%2FO9GuhGelkKVjNw%3D%3D&trackingId=KfmmBYT8YMP4qNgX3RRuzA%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BegxsnbYsQwOiMqTZdgYD8Q%3D%3D&lici=KfmmBYT8YMP4qNgX3RRuzA%3D%3D
+1/24/2026,Accenture,HR,applied,clg_recommended,https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01623733_en&title=HR+Service+Delivery+New+Associate
+1/25/2026,purplemerit,swe,applied,linkedin,https://www.linkedin.com/jobs/view/4355822443/?refId=gMNmBoQUzjt1VaQn%2BRsbeA%3D%3D&trackingId=53mSHFxTsJNapRN0I98RXQ%3D%3D
+1/26/2026,purplemerit,backendDev,applied,linkedin,https://forms.gle/CfZoSr5E8phxkjX16
+1/27/2026,honeywell,sw er. 1,applied,clg_recommended,https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/133004
+1/27/2026,Intervue.io,SDE-1 fs&bcknd,applied,clg_recommended,https://www.linkedin.com/jobs/view/4321301567
+1/27/2026,Hawlette Packered Enterprise,swe,applied,clg_recommended,https://careers.hpe.com/us/en/job/1192560/Graduate-Software-Engineer
+1/27/2026,amazon,business intellegence er,applied,clg_recommended,https://www.amazon.jobs/en/jobs/3072163/business-intelligent-engineer-ii-amazon-shipping
+1/27/2026,ebay,swe,applied,clg_recommended,https://jobs.ebayinc.com/us/en/job/EBAEBAUSR0068634EXTERNALENUS/Software-Development-Engineer-2
+1/27/2026,technosport,frontend,applied,clg_recommended,https://www.linkedin.com/jobs/view/4363483613
